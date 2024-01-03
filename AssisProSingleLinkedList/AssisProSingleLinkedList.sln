@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssisProSingleLinkedList", "AssisProSingleLinkedList\AssisProSingleLinkedList.csproj", "{CCDCF5AA-0EEA-48EA-A4CB-D6CEE787865A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCDCF5AA-0EEA-48EA-A4CB-D6CEE787865A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDCF5AA-0EEA-48EA-A4CB-D6CEE787865A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDCF5AA-0EEA-48EA-A4CB-D6CEE787865A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDCF5AA-0EEA-48EA-A4CB-D6CEE787865A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {688765A5-AEA8-4796-929C-9ADF260C01A4}
+	EndGlobalSection
+EndGlobal
